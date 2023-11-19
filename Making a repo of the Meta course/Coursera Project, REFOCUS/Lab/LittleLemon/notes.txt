@@ -1,0 +1,5 @@
+SUPER USER CREDIANTIALS : 
+
+username = chedychaaben2
+email = chedychaaben2@gmail.com
+password=123456789CC

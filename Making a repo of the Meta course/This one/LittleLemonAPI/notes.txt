@@ -1,0 +1,6 @@
+Users     Group     Password
+martin    Manager    12345
+pablo     Delivery   pass!@#
+alex      Delivery   pass!@#
+borja     User       12345
+kumar     User       12345
